@@ -1,0 +1,19 @@
+{
+  "name": "CAL",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1",
+    "request": "^2.83.0",
+    "sort-json": "^1.5.2",
+    "sort-json-array": "^0.1.7"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
